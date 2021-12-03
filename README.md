@@ -11,6 +11,11 @@
 
 ***The data is stored in the file DO_CHOI.sql***
 
+**Libraries** 
+- sqljdbc42.jar
+- JSTL 1.2.1 -jstl-impl.jar
+- jstl 1.2.1 -jstl-api.jar
+
 <h4>The web application allows users to view, book, adjust and view a kid toys. The users are categorized into three different groups, which can perform different tasks on the system.</h4> 
 
 <h3>Specifications</h3>
