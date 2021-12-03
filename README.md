@@ -14,6 +14,7 @@
 <h4>The web application allows users to view, book, adjust and view a kid toys. The users are categorized into three different groups, which can perform different tasks on the system.</h4> 
 
 <h3>Specifications</h3>
+
 **Guest**:
  As a guest user, they can Login the system to get access authorized. If they are new to the system, they can Register for an account on the website.
 
@@ -31,37 +32,37 @@
 
 * Login and Create account
   
-![Login and Create](/assets/images/login.png)
+![Login and Create](/assert/images/login.png)
 
 * Screen Home
 
-![Home](/assets/images/Home.png)
+![Home](/assert/images/Home.png)
 
 * Search Product
  [^1]: Search by product name
 
-![search name](/assets/images/name.png)
+![search name](/assert/images/name.png)
 
  [^2]: Search by product type
 
-![category](/assets/images/category.png)
+![category](/assert/images/category.png)
 
 * Product details
 
-![detail](/assets/images/detail.png)
+![detail](/assert/images/detail.png)
 
 * Cart 
 
-![cart](/assets/images/Cart.png)
+![cart](/assert/images/Cart.png)
 
 * Manage Product (of admin) 
  1. View and Delete
 
-![Manange vỉew](/assets/images/view.png)
+![Manange vỉew](/assert/images/view.png)
 
  2. Edit
 
-![Edit](/assets/images/edit.png)
+![Edit](/assert/images/edit.png)
 
 For more information, please read the specification document in the .doc file: Specification of KIDS TOY STORE
 
