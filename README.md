@@ -69,6 +69,6 @@
 
 ![Edit](/assert/images/edit.png)
 
-For more information, please read the specification document in the .doc file: Specification of KIDS TOY STORE
+For more information, please read the specification document in the .doc file: Specification of KIDS TOY STORE.docx
 
 Ask for me **thanhminh1452000@gmail.com** or [Facebook](https://www.facebook.com/thanhmin145/)
