@@ -1,0 +1,19 @@
+
+name: Chiến binh thú ZW29
+image: https://u6wdnj9wggobj.vcdn.cloud/media/catalog/product/cache/95cb36d3254e0a20b33361b06e7c0ce9/5/9/596851_3.jpeg
+catetory: Đồ chơi nhân vật
+title: Chiến binh thú ZW29 SNIPTERA
+description: Chiến binh thú ZW29 SNIPTERA
+
+name: Đầu Máy Xe Lửa Crocodile Locomotive
+image: https://u6wdnj9wggobj.vcdn.cloud/media/catalog/product/cache/a237138a07ed0dd2cc8a6fa440635ea6/0/8/08_128_1.jpg
+category: Đồ chơi trí tuệ 
+title: Đầu Máy Xe Lửa Crocodile Locomotive
+description: Bạn còn nhớ những giờ phút vui vẻ khi chơi với bộ đồ chơi xe lửa không? Giờ đây, bạn có thể thoát khỏi trách nhiệm và quay lại những ngày vui vẻ với LEGO® bộ lắp ráp Đầu Máy Xe Lửa Crocodile Locomotive - nhưng lần này, nó hoàn toàn dành cho người lớn! Hãy dành thời gian của bạn với bản dựng, sau đó đắm mình trong kỹ thuật tuyệt vời khi bạn khám phá các tính năng và chức năng được thiết kế trong mô hình ấn tượng này. Hãy giải tỏa tâm trí của bạn và thoát khỏi sự mệt mỏi hàng ngày với dự án lắp ráp hoàn hảo này. Nếu niềm đam mê với các bộ đồ chơi xe lửa chưa bao giờ thực sự rời bỏ bạn, thì bạn sẽ thích tái tạo các chi tiết tuyệt vời của Đầu Máy Xe Lửa Crocodile Locomotive, một tác phẩm cổ điển cổ điển từ thời kỳ vàng son của du lịch đường sắt. Ấn tượng đến từng chi tiết Lấy cảm hứng từ đầu máy Class Ce 6/8 II, lần đầu tiên được chế tạo cho Đường sắt Liên bang Thụy Sĩ từ năm 1919 đến năm 1927, mô hình LEGO® tuyệt đẹp này được trang bị với các chi tiết thực tế. Với các thanh bên di chuyển khi bánh xe quay và các máy truyền tải điện có thể điều chỉnh được di chuyển lên xuống, có rất nhiều điều để khám phá
+
+
+name:Máy bay điều khiển - Jett Tia Chớp
+image: https://u6wdnj9wggobj.vcdn.cloud/media/catalog/product/cache/95cb36d3254e0a20b33361b06e7c0ce9/magento/SUPERWINGS/YW710710/YW710710_1.jpg
+category:Đồ chơi vận động 
+title:Jett Tia Chớp
+description:Máy bay điều khiển với bảng điều khiển đơn giản, nút bấm vừa tay bé. Điều khiển cho máy bay chạy về phía trước và xoay vòng. Có đèn và âm thanh.
